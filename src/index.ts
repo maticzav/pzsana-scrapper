@@ -1,4 +1,7 @@
 import puppeteer, { Browser, ElementHandle } from 'puppeteer'
+import * as fs from 'fs'
+import * as path from 'path'
+import mkdirp = require('mkdirp')
 
 /**
  *
@@ -7,6 +10,8 @@ import puppeteer, { Browser, ElementHandle } from 'puppeteer'
  */
 
 const pzsana = `http://www.pzsana.net/pzsana/alltime1.php`
+const extractDir = `dist`
+const extractFile = `data.json`
 
 /**
  *
@@ -20,15 +25,15 @@ async function main() {
   const flyLongCourse = await getResultsFor(browser, {
     gender: 'MM',
     pool: 'L',
-    course: '100K',
-    numberOfResults: 50,
+    course: '50D',
+    numberOfResults: 500,
   })
 
   const flyShortCourse = await getResultsFor(browser, {
     gender: 'MM',
     pool: 'Z',
-    course: '100K',
-    numberOfResults: 50,
+    course: '50D',
+    numberOfResults: 500,
   })
 
   const results = combineResults('swimmer_name', [
@@ -44,7 +49,7 @@ async function main() {
     },
   ])
 
-  console.log(results)
+  return extractData(extractDir, extractFile, results)
 }
 
 main()
@@ -54,6 +59,26 @@ main()
  * Helper functions
  *
  */
+
+async function extractData(dir: string, file: string, data: any[]) {
+  const outputDir = path.resolve(process.cwd(), dir)
+  const outputFile = path.resolve(process.cwd(), dir, file)
+
+  const content = JSON.stringify(
+    {
+      size: data.length,
+      data,
+    },
+    null,
+    2,
+  )
+
+  mkdirp(outputDir, err => {
+    if (err) throw err
+
+    fs.writeFileSync(outputFile, content)
+  })
+}
 
 function combineResults(
   head: string,
