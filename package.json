@@ -1,0 +1,31 @@
+{
+  "name": "pzsana-scrapper",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "rimraf dist && tsc -d",
+    "pretest": "npm run build && npm run lint",
+    "test": "ava --serial",
+    "lint": "tslint {src,test}/**/*.ts",
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "moment": "^2.22.2",
+    "puppeteer": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/node": "^10.12.3",
+    "@types/puppeteer": "^1.9.1",
+    "ava": "^0.25.0",
+    "prettier": "^1.15.1",
+    "rimraf": "^2.6.2",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.15.0",
+    "tslint-config-standard": "^8.0.1",
+    "typescript": "^3.1.6"
+  },
+  "license": "MIT"
+}
