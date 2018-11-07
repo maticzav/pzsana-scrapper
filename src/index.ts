@@ -27,14 +27,14 @@ async function main() {
     gender: 'MM',
     pool: 'L',
     course: '50D',
-    numberOfResults: 500,
+    numberOfResults: 1000,
   })
 
   const flyShortCourse = await getResultsFor(browser, {
     gender: 'MM',
     pool: 'Z',
     course: '50D',
-    numberOfResults: 500,
+    numberOfResults: 1000,
   })
 
   const results = combineResults('swimmer_name', [
@@ -164,8 +164,15 @@ async function getResultsFor(
    * mesto ime letnik(starost) klub čas točke datum kraj
    *
    */
-  const table = await page.$('tbody')
-  const [, ...rows] = await table!.$$('tr')
+  const tables = await page.$$('tbody')
+  const rows = await Promise.all(
+    tables.map(async table => {
+      const [, ...rows] = await table!.$$('tr')
+      return rows
+    }),
+  ).then(tables =>
+    tables.reduce((acc, tableRows) => [...acc, ...tableRows], []),
+  )
 
   const results = await Promise.all(
     rows.map(
