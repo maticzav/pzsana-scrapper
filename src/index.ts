@@ -1,6 +1,7 @@
 import puppeteer, { Browser, ElementHandle } from 'puppeteer'
 import * as fs from 'fs'
 import * as path from 'path'
+import * as ora from 'ora'
 import mkdirp = require('mkdirp')
 
 /**
@@ -52,7 +53,9 @@ async function main() {
   return extractData(extractDir, extractFile, results)
 }
 
-main()
+ora.promise(main(), {
+  text: 'Loading results...',
+})
 
 /**
  *
