@@ -1,7 +1,7 @@
 import puppeteer, { Browser, ElementHandle } from 'puppeteer'
 import * as fs from 'fs'
 import * as path from 'path'
-import * as ora from 'ora'
+import ora from 'ora'
 import mkdirp = require('mkdirp')
 
 /**
@@ -11,6 +11,9 @@ import mkdirp = require('mkdirp')
  */
 
 const pzsana = `http://www.pzsana.net/pzsana/alltime1.php`
+const gender: PZSAnaOptions['gender'] = 'MM'
+const course: PZSAnaOptions['course'] = '50D'
+const samples = 1000
 const extractDir = `dist`
 const extractFile = `data.json`
 
@@ -24,17 +27,17 @@ async function main() {
   const browser = await puppeteer.launch()
 
   const flyLongCourse = await getResultsFor(browser, {
-    gender: 'MM',
+    gender: gender,
     pool: 'L',
-    course: '50D',
-    numberOfResults: 1000,
+    course: course,
+    numberOfResults: samples,
   })
 
   const flyShortCourse = await getResultsFor(browser, {
-    gender: 'MM',
+    gender: gender,
     pool: 'Z',
-    course: '50D',
-    numberOfResults: 1000,
+    course: course,
+    numberOfResults: samples,
   })
 
   const results = combineResults('swimmer_name', [
@@ -255,9 +258,18 @@ async function getResultsFor(
 
   async function parseColumnTime(element: ElementHandle<Element>) {
     return element.$eval('p', node => {
-      return {
-        time: node.innerHTML,
-      }
+      const [, minutes, seconds, deciseconds] = /(\d):(\d*),(\d*)/.exec(
+        node.innerHTML,
+      )!
+
+      console.log({ minutes, seconds, deciseconds })
+
+      const time =
+        60 * parseInt(minutes) +
+        parseInt(seconds) +
+        0.01 * parseInt(deciseconds)
+
+      return { time }
     })
   }
 
