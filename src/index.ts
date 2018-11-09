@@ -42,12 +42,12 @@ async function main() {
 
   const results = combineResults('swimmer_name', [
     {
-      name: 'longPool',
+      name: 'longCoursePoolTime',
       resolve: (e: any) => e.time,
       data: flyLongCourse,
     },
     {
-      name: 'shortPool',
+      name: 'shortCoursePoolTime',
       resolve: (e: any) => e.time,
       data: flyShortCourse,
     },

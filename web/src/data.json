@@ -1,0 +1,2195 @@
+{
+  "size": 438,
+  "data": [
+    {
+      "swimmer_name": "KORDEŽ Gal",
+      "longCoursePoolTime": 24.39,
+      "shortCoursePoolTime": 24.57
+    },
+    {
+      "swimmer_name": "DEMŠAR Domen",
+      "longCoursePoolTime": 24.67,
+      "shortCoursePoolTime": 24.26
+    },
+    {
+      "swimmer_name": "VRTOVEC Luka",
+      "longCoursePoolTime": 24.78,
+      "shortCoursePoolTime": 24.54
+    },
+    {
+      "swimmer_name": "BODIROŽA Nick",
+      "longCoursePoolTime": 24.8,
+      "shortCoursePoolTime": 24.25
+    },
+    {
+      "swimmer_name": "ROZMAN Matjaž",
+      "longCoursePoolTime": 24.81,
+      "shortCoursePoolTime": 24.61
+    },
+    {
+      "swimmer_name": "MANKOČ Peter",
+      "longCoursePoolTime": 25,
+      "shortCoursePoolTime": 25.28
+    },
+    {
+      "swimmer_name": "GODEC Jernej",
+      "longCoursePoolTime": 25.16,
+      "shortCoursePoolTime": 25.94
+    },
+    {
+      "swimmer_name": "LOVŠIN Robert",
+      "longCoursePoolTime": 25.21,
+      "shortCoursePoolTime": 24.87
+    },
+    {
+      "swimmer_name": "ŠTIH Gašper",
+      "longCoursePoolTime": 25.29,
+      "shortCoursePoolTime": 25.15
+    },
+    {
+      "swimmer_name": "KOSIRNIK Matic",
+      "longCoursePoolTime": 25.47,
+      "shortCoursePoolTime": 25.36
+    },
+    {
+      "swimmer_name": "MENCINGER Jernej",
+      "longCoursePoolTime": 25.53,
+      "shortCoursePoolTime": 25.39
+    },
+    {
+      "swimmer_name": "CERKOVNIK Žiga",
+      "longCoursePoolTime": 25.54,
+      "shortCoursePoolTime": 24.6
+    },
+    {
+      "swimmer_name": "PRIMOŽIČ Marcel",
+      "longCoursePoolTime": 25.58,
+      "shortCoursePoolTime": 24.97
+    },
+    {
+      "swimmer_name": "GRŽINA Miha",
+      "longCoursePoolTime": 25.65,
+      "shortCoursePoolTime": 25.83
+    },
+    {
+      "swimmer_name": "MEŽA Kristjan",
+      "longCoursePoolTime": 25.7,
+      "shortCoursePoolTime": 25
+    },
+    {
+      "swimmer_name": "GREGORČIČ Davor",
+      "longCoursePoolTime": 25.81,
+      "shortCoursePoolTime": 26.17
+    },
+    {
+      "swimmer_name": "STANONIK Matic",
+      "longCoursePoolTime": 25.88,
+      "shortCoursePoolTime": 25.94
+    },
+    {
+      "swimmer_name": "ŠTRUKELJ Aljaž",
+      "longCoursePoolTime": 25.95,
+      "shortCoursePoolTime": 25.64
+    },
+    {
+      "swimmer_name": "PRODNIK Luka",
+      "longCoursePoolTime": 25.96,
+      "shortCoursePoolTime": 25.83
+    },
+    {
+      "swimmer_name": "STEVENS Peter John",
+      "longCoursePoolTime": 25.98,
+      "shortCoursePoolTime": 25.95
+    },
+    {
+      "swimmer_name": "DEMŠAR Blaž",
+      "longCoursePoolTime": 25.99,
+      "shortCoursePoolTime": 25.75
+    },
+    {
+      "swimmer_name": "TOŠOVIČ Tadej",
+      "longCoursePoolTime": 26.03,
+      "shortCoursePoolTime": 25.48
+    },
+    {
+      "swimmer_name": "KOŠTOMAJ Aleks",
+      "longCoursePoolTime": 26.09,
+      "shortCoursePoolTime": 25.91
+    },
+    {
+      "swimmer_name": "ZORMAN Matjaž",
+      "longCoursePoolTime": 26.09,
+      "shortCoursePoolTime": 25.9
+    },
+    {
+      "swimmer_name": "POGAČAR Žan",
+      "longCoursePoolTime": 26.1,
+      "shortCoursePoolTime": 25.5
+    },
+    {
+      "swimmer_name": "SVETEK Jaka",
+      "longCoursePoolTime": 26.1,
+      "shortCoursePoolTime": 25.62
+    },
+    {
+      "swimmer_name": "KOROŠEC Blaž",
+      "longCoursePoolTime": 26.11,
+      "shortCoursePoolTime": 25.79
+    },
+    {
+      "swimmer_name": "ŠTIHOVIČ Tjaš",
+      "longCoursePoolTime": 26.11,
+      "shortCoursePoolTime": 25.6
+    },
+    {
+      "swimmer_name": "DOVER Luka",
+      "longCoursePoolTime": 26.13,
+      "shortCoursePoolTime": 26.25
+    },
+    {
+      "swimmer_name": "OMAHEN Andraž",
+      "longCoursePoolTime": 26.18,
+      "shortCoursePoolTime": 25.8
+    },
+    {
+      "swimmer_name": "ANDOLJŠEK Chad",
+      "longCoursePoolTime": 26.24,
+      "shortCoursePoolTime": 26.29
+    },
+    {
+      "swimmer_name": "DUGONJIĆ Damir",
+      "longCoursePoolTime": 26.25,
+      "shortCoursePoolTime": 26.13
+    },
+    {
+      "swimmer_name": "MAJCEN GOVC Filip",
+      "longCoursePoolTime": 26.29,
+      "shortCoursePoolTime": 25.52
+    },
+    {
+      "swimmer_name": "SOVROVIČ Miha",
+      "longCoursePoolTime": 26.29,
+      "shortCoursePoolTime": 25.93
+    },
+    {
+      "swimmer_name": "DOVER Vasja",
+      "longCoursePoolTime": 26.31,
+      "shortCoursePoolTime": 26.55
+    },
+    {
+      "swimmer_name": "VRHOVŠEK Martin",
+      "longCoursePoolTime": 26.36,
+      "shortCoursePoolTime": 25.99
+    },
+    {
+      "swimmer_name": "ZAVADLAL Matic",
+      "longCoursePoolTime": 26.4,
+      "shortCoursePoolTime": 25.68
+    },
+    {
+      "swimmer_name": "MIHALIČ David",
+      "longCoursePoolTime": 26.43,
+      "shortCoursePoolTime": 26.08
+    },
+    {
+      "swimmer_name": "TOBIAS David",
+      "longCoursePoolTime": 26.44,
+      "shortCoursePoolTime": 25.31
+    },
+    {
+      "swimmer_name": "TAHIROVIČ Emil",
+      "longCoursePoolTime": 26.45,
+      "shortCoursePoolTime": 25.65
+    },
+    {
+      "swimmer_name": "ŠENICA Gašper",
+      "longCoursePoolTime": 26.48,
+      "shortCoursePoolTime": 26.12
+    },
+    {
+      "swimmer_name": "PAVLIN Anže",
+      "longCoursePoolTime": 26.51,
+      "shortCoursePoolTime": 25.84
+    },
+    {
+      "swimmer_name": "LESJAK Filip",
+      "longCoursePoolTime": 26.54,
+      "shortCoursePoolTime": 26.86
+    },
+    {
+      "swimmer_name": "ŠTEHARNIK Dejan",
+      "longCoursePoolTime": 26.54,
+      "shortCoursePoolTime": 26.37
+    },
+    {
+      "swimmer_name": "ŽBOGAR Robert",
+      "longCoursePoolTime": 26.54,
+      "shortCoursePoolTime": 25.92
+    },
+    {
+      "swimmer_name": "MASTEN Tim",
+      "longCoursePoolTime": 26.59,
+      "shortCoursePoolTime": 26.87
+    },
+    {
+      "swimmer_name": "HABJAN Aljoša",
+      "longCoursePoolTime": 26.62,
+      "shortCoursePoolTime": 26.22
+    },
+    {
+      "swimmer_name": "TAVČAR Anže",
+      "longCoursePoolTime": 26.63,
+      "shortCoursePoolTime": 26.71
+    },
+    {
+      "swimmer_name": "GORNIK Tilen",
+      "longCoursePoolTime": 26.66,
+      "shortCoursePoolTime": 26.12
+    },
+    {
+      "swimmer_name": "HROVATIN Žan",
+      "longCoursePoolTime": 26.7,
+      "shortCoursePoolTime": 26.56
+    },
+    {
+      "swimmer_name": "VADAS Matevž",
+      "longCoursePoolTime": 26.7,
+      "shortCoursePoolTime": 26.06
+    },
+    {
+      "swimmer_name": "SAGMEISTER Rok",
+      "longCoursePoolTime": 26.72,
+      "shortCoursePoolTime": 26.23
+    },
+    {
+      "swimmer_name": "GERČER Jan",
+      "longCoursePoolTime": 26.76,
+      "shortCoursePoolTime": 26.39
+    },
+    {
+      "swimmer_name": "KOS Tim",
+      "longCoursePoolTime": 26.77,
+      "shortCoursePoolTime": 26.51
+    },
+    {
+      "swimmer_name": "PLEVELJ Grega",
+      "longCoursePoolTime": 26.8,
+      "shortCoursePoolTime": 26.17
+    },
+    {
+      "swimmer_name": "BAŠIČ Gašper",
+      "longCoursePoolTime": 26.84,
+      "shortCoursePoolTime": 27.6
+    },
+    {
+      "swimmer_name": "VELIKONJA Luka",
+      "longCoursePoolTime": 26.86,
+      "shortCoursePoolTime": 27.01
+    },
+    {
+      "swimmer_name": "VOVK Robert",
+      "longCoursePoolTime": 26.89,
+      "shortCoursePoolTime": 26.35
+    },
+    {
+      "swimmer_name": "DIMNIK Aljaž",
+      "longCoursePoolTime": 26.9,
+      "shortCoursePoolTime": 27.15
+    },
+    {
+      "swimmer_name": "KAVČIČ Gregor",
+      "longCoursePoolTime": 26.9,
+      "shortCoursePoolTime": 26.15
+    },
+    {
+      "swimmer_name": "PAVLIN Jošt",
+      "longCoursePoolTime": 26.9,
+      "shortCoursePoolTime": 26.98
+    },
+    {
+      "swimmer_name": "BAU Martin",
+      "longCoursePoolTime": 26.94,
+      "shortCoursePoolTime": 26.78
+    },
+    {
+      "swimmer_name": "JONČESKI Vojko",
+      "longCoursePoolTime": 26.94,
+      "shortCoursePoolTime": 26.72
+    },
+    {
+      "swimmer_name": "OSTERC Peter",
+      "longCoursePoolTime": 26.94,
+      "shortCoursePoolTime": 26.43
+    },
+    {
+      "swimmer_name": "KONCILJA Patrick",
+      "longCoursePoolTime": 26.97,
+      "shortCoursePoolTime": 27.09
+    },
+    {
+      "swimmer_name": "PETRIČ Jan Karel",
+      "longCoursePoolTime": 26.97,
+      "shortCoursePoolTime": 27.02
+    },
+    {
+      "swimmer_name": "THALER Jaka",
+      "longCoursePoolTime": 26.98,
+      "shortCoursePoolTime": 26.35
+    },
+    {
+      "swimmer_name": "JOST Miha",
+      "longCoursePoolTime": 27.06,
+      "shortCoursePoolTime": 26.78
+    },
+    {
+      "swimmer_name": "ABERŠEK Aleš",
+      "longCoursePoolTime": 27.07,
+      "shortCoursePoolTime": 26.21
+    },
+    {
+      "swimmer_name": "TRILLER Tomo",
+      "longCoursePoolTime": 27.07,
+      "shortCoursePoolTime": 26.4
+    },
+    {
+      "swimmer_name": "GLADEK Mark",
+      "longCoursePoolTime": 27.1,
+      "shortCoursePoolTime": 26.75
+    },
+    {
+      "swimmer_name": "ZUPAN Adam",
+      "longCoursePoolTime": 27.1,
+      "shortCoursePoolTime": 27
+    },
+    {
+      "swimmer_name": "JURAK Goran",
+      "longCoursePoolTime": 27.11,
+      "shortCoursePoolTime": 26.64
+    },
+    {
+      "swimmer_name": "LANČIČ Lovro",
+      "longCoursePoolTime": 27.11,
+      "shortCoursePoolTime": 27.38
+    },
+    {
+      "swimmer_name": "ŠEGEL Blaž",
+      "longCoursePoolTime": 27.12,
+      "shortCoursePoolTime": 27.23
+    },
+    {
+      "swimmer_name": "GLOBOČNIK Matej",
+      "longCoursePoolTime": 27.13,
+      "shortCoursePoolTime": 26.67
+    },
+    {
+      "swimmer_name": "JEŽOVNIK Simon",
+      "longCoursePoolTime": 27.14,
+      "shortCoursePoolTime": 26.27
+    },
+    {
+      "swimmer_name": "MADJARIČ Dejan",
+      "longCoursePoolTime": 27.14,
+      "shortCoursePoolTime": 26.03
+    },
+    {
+      "swimmer_name": "MELON Jure",
+      "longCoursePoolTime": 27.16,
+      "shortCoursePoolTime": 26.95
+    },
+    {
+      "swimmer_name": "MOŽE Matija",
+      "longCoursePoolTime": 27.19,
+      "shortCoursePoolTime": 25.96
+    },
+    {
+      "swimmer_name": "POHOREC Matija",
+      "longCoursePoolTime": 27.19,
+      "shortCoursePoolTime": 26.3
+    },
+    {
+      "swimmer_name": "BEŠTER Mitja",
+      "longCoursePoolTime": 27.23,
+      "shortCoursePoolTime": 26.18
+    },
+    {
+      "swimmer_name": "BLAŽINA Jože",
+      "longCoursePoolTime": 27.23,
+      "shortCoursePoolTime": 26.83
+    },
+    {
+      "swimmer_name": "POPOVIĆ Grega",
+      "longCoursePoolTime": 27.23,
+      "shortCoursePoolTime": 26.42
+    },
+    {
+      "swimmer_name": "KOREN Anže",
+      "longCoursePoolTime": 27.27,
+      "shortCoursePoolTime": 26.29
+    },
+    {
+      "swimmer_name": "KLEMENC Peter",
+      "longCoursePoolTime": 27.29,
+      "shortCoursePoolTime": 27.23
+    },
+    {
+      "swimmer_name": "VELIČKOVIČ Vid",
+      "longCoursePoolTime": 27.3,
+      "shortCoursePoolTime": 26.39
+    },
+    {
+      "swimmer_name": "JOVANOVSKI Marko",
+      "longCoursePoolTime": 27.31,
+      "shortCoursePoolTime": 27.03
+    },
+    {
+      "swimmer_name": "RAKUN KOKALJ Jaša Jernej",
+      "longCoursePoolTime": 27.31,
+      "shortCoursePoolTime": 27.14
+    },
+    {
+      "swimmer_name": "LOZICA Gal",
+      "longCoursePoolTime": 27.32,
+      "shortCoursePoolTime": 27.55
+    },
+    {
+      "swimmer_name": "GUZEJ Aljaž",
+      "longCoursePoolTime": 27.38,
+      "shortCoursePoolTime": 27
+    },
+    {
+      "swimmer_name": "MEŠIĆ Adi",
+      "longCoursePoolTime": 27.38,
+      "shortCoursePoolTime": 27.14
+    },
+    {
+      "swimmer_name": "PETEK Žan",
+      "longCoursePoolTime": 27.38,
+      "shortCoursePoolTime": 26.63
+    },
+    {
+      "swimmer_name": "CIRIKOVIČ Elvis",
+      "longCoursePoolTime": 27.39,
+      "shortCoursePoolTime": 26.94
+    },
+    {
+      "swimmer_name": "VIDOVIČ Timotej",
+      "longCoursePoolTime": 27.39,
+      "shortCoursePoolTime": 26.85
+    },
+    {
+      "swimmer_name": "FABJAN Borut",
+      "longCoursePoolTime": 27.4,
+      "shortCoursePoolTime": 26.32
+    },
+    {
+      "swimmer_name": "OMEJEC Žan",
+      "longCoursePoolTime": 27.4,
+      "shortCoursePoolTime": 27.67
+    },
+    {
+      "swimmer_name": "SUMIĆ Eugen",
+      "longCoursePoolTime": 27.42,
+      "shortCoursePoolTime": 27.52
+    },
+    {
+      "swimmer_name": "VODENIK Vito",
+      "longCoursePoolTime": 27.43,
+      "shortCoursePoolTime": 26.94
+    },
+    {
+      "swimmer_name": "ISAKOVIĆ Gal",
+      "longCoursePoolTime": 27.44,
+      "shortCoursePoolTime": 26.72
+    },
+    {
+      "swimmer_name": "BOŽIČ Blaž",
+      "longCoursePoolTime": 27.45,
+      "shortCoursePoolTime": 27.42
+    },
+    {
+      "swimmer_name": "VERKO Grega",
+      "longCoursePoolTime": 27.45,
+      "shortCoursePoolTime": 27.01
+    },
+    {
+      "swimmer_name": "GRADIŠEK Aljoša",
+      "longCoursePoolTime": 27.47,
+      "shortCoursePoolTime": 27.3
+    },
+    {
+      "swimmer_name": "MAVRIČ Žan",
+      "longCoursePoolTime": 27.47,
+      "shortCoursePoolTime": 28.89
+    },
+    {
+      "swimmer_name": "ČAHUK Matic",
+      "longCoursePoolTime": 27.48,
+      "shortCoursePoolTime": 27.39
+    },
+    {
+      "swimmer_name": "ZABAV Marko",
+      "longCoursePoolTime": 27.49,
+      "shortCoursePoolTime": 27.36
+    },
+    {
+      "swimmer_name": "HREN Erik",
+      "longCoursePoolTime": 27.51,
+      "shortCoursePoolTime": 26.81
+    },
+    {
+      "swimmer_name": "MIKAC KNAPIĆ Tian",
+      "longCoursePoolTime": 27.53,
+      "shortCoursePoolTime": 26.83
+    },
+    {
+      "swimmer_name": "ŠPENKO Žan",
+      "longCoursePoolTime": 27.54,
+      "shortCoursePoolTime": 26.95
+    },
+    {
+      "swimmer_name": "VUGA Blaž",
+      "longCoursePoolTime": 27.55,
+      "shortCoursePoolTime": 27.47
+    },
+    {
+      "swimmer_name": "KERČ Aljaž",
+      "longCoursePoolTime": 27.56,
+      "shortCoursePoolTime": 27.63
+    },
+    {
+      "swimmer_name": "BLATNIK Maj",
+      "longCoursePoolTime": 27.58,
+      "shortCoursePoolTime": 27.71
+    },
+    {
+      "swimmer_name": "LEVEC Luka",
+      "longCoursePoolTime": 27.58,
+      "shortCoursePoolTime": 27.36
+    },
+    {
+      "swimmer_name": "MLADENOVIĆ Gal",
+      "longCoursePoolTime": 27.58,
+      "shortCoursePoolTime": 27.46
+    },
+    {
+      "swimmer_name": "KOVAČIČ Jaroslav",
+      "longCoursePoolTime": 27.59,
+      "shortCoursePoolTime": 26.82
+    },
+    {
+      "swimmer_name": "BELINA Tomaž",
+      "longCoursePoolTime": 27.61,
+      "shortCoursePoolTime": 27.62
+    },
+    {
+      "swimmer_name": "GRADIŠEK Jaša",
+      "longCoursePoolTime": 27.61,
+      "shortCoursePoolTime": 30.95
+    },
+    {
+      "swimmer_name": "SLIVNIK Martin",
+      "longCoursePoolTime": 27.61,
+      "shortCoursePoolTime": 27.56
+    },
+    {
+      "swimmer_name": "ZATEZALO Filip",
+      "longCoursePoolTime": 27.62,
+      "shortCoursePoolTime": 27.36
+    },
+    {
+      "swimmer_name": "HRIBAR Peter",
+      "longCoursePoolTime": 27.63,
+      "shortCoursePoolTime": 27.37
+    },
+    {
+      "swimmer_name": "ANŽUR Tihomir",
+      "longCoursePoolTime": 27.65,
+      "shortCoursePoolTime": 26.9
+    },
+    {
+      "swimmer_name": "GRUBER Tadej",
+      "longCoursePoolTime": 27.65,
+      "shortCoursePoolTime": 27.75
+    },
+    {
+      "swimmer_name": "PLUT Jan",
+      "longCoursePoolTime": 27.65,
+      "shortCoursePoolTime": 27.76
+    },
+    {
+      "swimmer_name": "ZUPANEC Aleš",
+      "longCoursePoolTime": 27.65,
+      "shortCoursePoolTime": 27
+    },
+    {
+      "swimmer_name": "OCEPEK Jernej",
+      "longCoursePoolTime": 27.66,
+      "shortCoursePoolTime": 27.48
+    },
+    {
+      "swimmer_name": "SURJAN Gaber",
+      "longCoursePoolTime": 27.66,
+      "shortCoursePoolTime": 27.4
+    },
+    {
+      "swimmer_name": "KOZJEK David",
+      "longCoursePoolTime": 27.67,
+      "shortCoursePoolTime": 27.49
+    },
+    {
+      "swimmer_name": "POGORELC Andrej",
+      "longCoursePoolTime": 27.67,
+      "shortCoursePoolTime": 27.23
+    },
+    {
+      "swimmer_name": "VALCL Andraž",
+      "longCoursePoolTime": 27.67,
+      "shortCoursePoolTime": 27.31
+    },
+    {
+      "swimmer_name": "MARTINČIČ Iztok",
+      "longCoursePoolTime": 27.72,
+      "shortCoursePoolTime": 27
+    },
+    {
+      "swimmer_name": "GAŠPAR Jan",
+      "longCoursePoolTime": 27.74,
+      "shortCoursePoolTime": 26.88
+    },
+    {
+      "swimmer_name": "ŠINTLER Tilen",
+      "longCoursePoolTime": 27.77,
+      "shortCoursePoolTime": 28.55
+    },
+    {
+      "swimmer_name": "ULČNIK Peter",
+      "longCoursePoolTime": 27.79,
+      "shortCoursePoolTime": 28.57
+    },
+    {
+      "swimmer_name": "SUBAN Nejc",
+      "longCoursePoolTime": 27.82,
+      "shortCoursePoolTime": 28.17
+    },
+    {
+      "swimmer_name": "ČARMAN Dominik",
+      "longCoursePoolTime": 27.82,
+      "shortCoursePoolTime": 27.15
+    },
+    {
+      "swimmer_name": "ABRAHAM Primož",
+      "longCoursePoolTime": 27.83,
+      "shortCoursePoolTime": 27.04
+    },
+    {
+      "swimmer_name": "GODEC Alan",
+      "longCoursePoolTime": 27.88,
+      "shortCoursePoolTime": 27.42
+    },
+    {
+      "swimmer_name": "LAVRIČ Gašper",
+      "longCoursePoolTime": 27.88,
+      "shortCoursePoolTime": 28.21
+    },
+    {
+      "swimmer_name": "KUMER Frenk",
+      "longCoursePoolTime": 27.9,
+      "shortCoursePoolTime": 27.09
+    },
+    {
+      "swimmer_name": "OBRANOVIČ Nik",
+      "longCoursePoolTime": 27.9,
+      "shortCoursePoolTime": 28.01
+    },
+    {
+      "swimmer_name": "PANIČ Rok",
+      "longCoursePoolTime": 27.9,
+      "shortCoursePoolTime": 27.98
+    },
+    {
+      "swimmer_name": "ZLATNAR Jan",
+      "longCoursePoolTime": 27.9,
+      "shortCoursePoolTime": 27.39
+    },
+    {
+      "swimmer_name": "GERŠAK Luka",
+      "longCoursePoolTime": 27.92,
+      "shortCoursePoolTime": 27.84
+    },
+    {
+      "swimmer_name": "RIHTAR Kevin",
+      "longCoursePoolTime": 27.92,
+      "shortCoursePoolTime": 27.73
+    },
+    {
+      "swimmer_name": "VELIČKOVIČ Jernej",
+      "longCoursePoolTime": 27.93,
+      "shortCoursePoolTime": 26.89
+    },
+    {
+      "swimmer_name": "ŠIMENKO Nejc",
+      "longCoursePoolTime": 27.93,
+      "shortCoursePoolTime": 27.52
+    },
+    {
+      "swimmer_name": "PADAR Matej",
+      "longCoursePoolTime": 27.94,
+      "shortCoursePoolTime": 27.91
+    },
+    {
+      "swimmer_name": "SAVIČ David",
+      "longCoursePoolTime": 27.94,
+      "shortCoursePoolTime": 28.29
+    },
+    {
+      "swimmer_name": "RUPAR Aleksander",
+      "longCoursePoolTime": 27.95,
+      "shortCoursePoolTime": 26.97
+    },
+    {
+      "swimmer_name": "ŠVAJGER Sergej",
+      "longCoursePoolTime": 27.95,
+      "shortCoursePoolTime": 26.92
+    },
+    {
+      "swimmer_name": "BOHINC Gašper",
+      "longCoursePoolTime": 27.97,
+      "shortCoursePoolTime": 28.48
+    },
+    {
+      "swimmer_name": "BOMBEK Luka",
+      "longCoursePoolTime": 27.98,
+      "shortCoursePoolTime": 27.46
+    },
+    {
+      "swimmer_name": "ČOKO Roko",
+      "longCoursePoolTime": 28,
+      "shortCoursePoolTime": 26.63
+    },
+    {
+      "swimmer_name": "MANCEVIČ Denis",
+      "longCoursePoolTime": 28.02,
+      "shortCoursePoolTime": 27.34
+    },
+    {
+      "swimmer_name": "ŠKABAR Iztok",
+      "longCoursePoolTime": 28.02,
+      "shortCoursePoolTime": 27.37
+    },
+    {
+      "swimmer_name": "BERNAT Miha",
+      "longCoursePoolTime": 28.03,
+      "shortCoursePoolTime": 28.3
+    },
+    {
+      "swimmer_name": "CUNK Žiga",
+      "longCoursePoolTime": 28.03,
+      "shortCoursePoolTime": 27.53
+    },
+    {
+      "swimmer_name": "BAVDEK Rok",
+      "longCoursePoolTime": 28.04,
+      "shortCoursePoolTime": 28.49
+    },
+    {
+      "swimmer_name": "MIKLAVC Gal",
+      "longCoursePoolTime": 28.04,
+      "shortCoursePoolTime": 28.85
+    },
+    {
+      "swimmer_name": "JERNEJČIČ Jan",
+      "longCoursePoolTime": 28.07,
+      "shortCoursePoolTime": 27.97
+    },
+    {
+      "swimmer_name": "PAVEŠIČ Luka",
+      "longCoursePoolTime": 28.07,
+      "shortCoursePoolTime": 26.79
+    },
+    {
+      "swimmer_name": "TREBŠE Anže",
+      "longCoursePoolTime": 28.07,
+      "shortCoursePoolTime": 28.27
+    },
+    {
+      "swimmer_name": "LESKOVAR Jaša",
+      "longCoursePoolTime": 28.09,
+      "shortCoursePoolTime": 27.21
+    },
+    {
+      "swimmer_name": "KERN Mark",
+      "longCoursePoolTime": 28.13,
+      "shortCoursePoolTime": 28.78
+    },
+    {
+      "swimmer_name": "ŽALIK Mitja",
+      "longCoursePoolTime": 28.13,
+      "shortCoursePoolTime": 28.23
+    },
+    {
+      "swimmer_name": "KOCJANČIČ Miha",
+      "longCoursePoolTime": 28.14,
+      "shortCoursePoolTime": 27.48
+    },
+    {
+      "swimmer_name": "AMETI Haris",
+      "longCoursePoolTime": 28.15,
+      "shortCoursePoolTime": 28.1
+    },
+    {
+      "swimmer_name": "KRSTIĆ Marko",
+      "longCoursePoolTime": 28.15,
+      "shortCoursePoolTime": 27.92
+    },
+    {
+      "swimmer_name": "DACAR Anže",
+      "longCoursePoolTime": 28.17,
+      "shortCoursePoolTime": 28.44
+    },
+    {
+      "swimmer_name": "BAJC Blaž",
+      "longCoursePoolTime": 28.18,
+      "shortCoursePoolTime": 27.82
+    },
+    {
+      "swimmer_name": "GOLOB Matej",
+      "longCoursePoolTime": 28.18,
+      "shortCoursePoolTime": 27.85
+    },
+    {
+      "swimmer_name": "ŠENICA Andraž",
+      "longCoursePoolTime": 28.18,
+      "shortCoursePoolTime": 28.21
+    },
+    {
+      "swimmer_name": "ALEŠ Jan",
+      "longCoursePoolTime": 28.19,
+      "shortCoursePoolTime": 28
+    },
+    {
+      "swimmer_name": "POGAČNIK Žan",
+      "longCoursePoolTime": 28.19,
+      "shortCoursePoolTime": 27.9
+    },
+    {
+      "swimmer_name": "BAČELIČ Tadej",
+      "longCoursePoolTime": 28.2,
+      "shortCoursePoolTime": 27.94
+    },
+    {
+      "swimmer_name": "STRNAD Mihael",
+      "longCoursePoolTime": 28.2,
+      "shortCoursePoolTime": 27.37
+    },
+    {
+      "swimmer_name": "GOVŠE Ivan",
+      "longCoursePoolTime": 28.21,
+      "shortCoursePoolTime": 27.43
+    },
+    {
+      "swimmer_name": "NOSAN Luka",
+      "longCoursePoolTime": 28.21,
+      "shortCoursePoolTime": 28.12
+    },
+    {
+      "swimmer_name": "ZUPET Jure",
+      "longCoursePoolTime": 28.21,
+      "shortCoursePoolTime": 27.8
+    },
+    {
+      "swimmer_name": "HAJDUKOVIČ Rok",
+      "longCoursePoolTime": 28.26,
+      "shortCoursePoolTime": 27.49
+    },
+    {
+      "swimmer_name": "SUŠEC Miha",
+      "longCoursePoolTime": 28.26,
+      "shortCoursePoolTime": 28
+    },
+    {
+      "swimmer_name": "HROVATIN Žiga",
+      "longCoursePoolTime": 28.28,
+      "shortCoursePoolTime": 27.36
+    },
+    {
+      "swimmer_name": "KRALJ Blaž",
+      "longCoursePoolTime": 28.28,
+      "shortCoursePoolTime": 27.26
+    },
+    {
+      "swimmer_name": "ŠPRUK Nik Jan",
+      "longCoursePoolTime": 28.28,
+      "shortCoursePoolTime": 28.02
+    },
+    {
+      "swimmer_name": "ŠTRAUS Luka",
+      "longCoursePoolTime": 28.29,
+      "shortCoursePoolTime": 27.77
+    },
+    {
+      "swimmer_name": "ŽIŽEK Gašper",
+      "longCoursePoolTime": 28.31,
+      "shortCoursePoolTime": 26.89
+    },
+    {
+      "swimmer_name": "ARKO Jan",
+      "longCoursePoolTime": 28.32,
+      "shortCoursePoolTime": 27.31
+    },
+    {
+      "swimmer_name": "ODER Nik",
+      "longCoursePoolTime": 28.32,
+      "shortCoursePoolTime": 27.99
+    },
+    {
+      "swimmer_name": "KAPUS Jernej",
+      "longCoursePoolTime": 28.35,
+      "shortCoursePoolTime": 27.46
+    },
+    {
+      "swimmer_name": "JARC Luka",
+      "longCoursePoolTime": 28.36,
+      "shortCoursePoolTime": 27.99
+    },
+    {
+      "swimmer_name": "JAKUPOVIČ Emil",
+      "longCoursePoolTime": 28.39,
+      "shortCoursePoolTime": 27.78
+    },
+    {
+      "swimmer_name": "POTOČNIK Luka",
+      "longCoursePoolTime": 28.39,
+      "shortCoursePoolTime": 27.64
+    },
+    {
+      "swimmer_name": "KOROŠEC Nik",
+      "longCoursePoolTime": 28.4,
+      "shortCoursePoolTime": 27.97
+    },
+    {
+      "swimmer_name": "PRAPROTNIK Tilen",
+      "longCoursePoolTime": 28.41,
+      "shortCoursePoolTime": 28.67
+    },
+    {
+      "swimmer_name": "URANKAR Žiga",
+      "longCoursePoolTime": 28.41,
+      "shortCoursePoolTime": 28.12
+    },
+    {
+      "swimmer_name": "KOČEVAR Tilen",
+      "longCoursePoolTime": 28.44,
+      "shortCoursePoolTime": 27.9
+    },
+    {
+      "swimmer_name": "ZLATNAR Matej",
+      "longCoursePoolTime": 28.47,
+      "shortCoursePoolTime": 29.16
+    },
+    {
+      "swimmer_name": "HOMAN Urban",
+      "longCoursePoolTime": 28.48,
+      "shortCoursePoolTime": 28.35
+    },
+    {
+      "swimmer_name": "MOČNIK Miha",
+      "longCoursePoolTime": 28.48,
+      "shortCoursePoolTime": 28.27
+    },
+    {
+      "swimmer_name": "VUGA Janez",
+      "longCoursePoolTime": 28.5,
+      "shortCoursePoolTime": 28.16
+    },
+    {
+      "swimmer_name": "KITAK Žan",
+      "longCoursePoolTime": 28.52,
+      "shortCoursePoolTime": 28.29
+    },
+    {
+      "swimmer_name": "KOVAČ Matevž",
+      "longCoursePoolTime": 28.55,
+      "shortCoursePoolTime": 28.74
+    },
+    {
+      "swimmer_name": "POVHE Gregor",
+      "longCoursePoolTime": 28.55,
+      "shortCoursePoolTime": 27.76
+    },
+    {
+      "swimmer_name": "DANEV David",
+      "longCoursePoolTime": 28.56,
+      "shortCoursePoolTime": 27.87
+    },
+    {
+      "swimmer_name": "ODER Gašper",
+      "longCoursePoolTime": 28.56,
+      "shortCoursePoolTime": 26.85
+    },
+    {
+      "swimmer_name": "KONCILJA Sergej",
+      "longCoursePoolTime": 28.6,
+      "shortCoursePoolTime": 27.81
+    },
+    {
+      "swimmer_name": "BORŠIČ Vid",
+      "longCoursePoolTime": 28.62,
+      "shortCoursePoolTime": 28.1
+    },
+    {
+      "swimmer_name": "MUŠIČ Jure",
+      "longCoursePoolTime": 28.62,
+      "shortCoursePoolTime": 28.32
+    },
+    {
+      "swimmer_name": "LIMONI Rok",
+      "longCoursePoolTime": 28.63,
+      "shortCoursePoolTime": 28.35
+    },
+    {
+      "swimmer_name": "MUKAETOV Ilija",
+      "longCoursePoolTime": 28.63,
+      "shortCoursePoolTime": 28.33
+    },
+    {
+      "swimmer_name": "ZABAV Andrej",
+      "longCoursePoolTime": 28.63,
+      "shortCoursePoolTime": 28.2
+    },
+    {
+      "swimmer_name": "PLAHUTNIK Jure",
+      "longCoursePoolTime": 28.64,
+      "shortCoursePoolTime": 27.71
+    },
+    {
+      "swimmer_name": "PAJIČ Dejan",
+      "longCoursePoolTime": 28.65,
+      "shortCoursePoolTime": 28.5
+    },
+    {
+      "swimmer_name": "OVNIČEK Matic",
+      "longCoursePoolTime": 28.67,
+      "shortCoursePoolTime": 28.59
+    },
+    {
+      "swimmer_name": "PARADIŽ Martin",
+      "longCoursePoolTime": 28.67,
+      "shortCoursePoolTime": 28.19
+    },
+    {
+      "swimmer_name": "TOMAN Jan",
+      "longCoursePoolTime": 28.68,
+      "shortCoursePoolTime": 28.63
+    },
+    {
+      "swimmer_name": "ZOBEC Tim",
+      "longCoursePoolTime": 28.68,
+      "shortCoursePoolTime": 27.66
+    },
+    {
+      "swimmer_name": "ŠERBEC Gregor",
+      "longCoursePoolTime": 28.68,
+      "shortCoursePoolTime": 28.99
+    },
+    {
+      "swimmer_name": "VERDNIK Jan",
+      "longCoursePoolTime": 28.7,
+      "shortCoursePoolTime": 29.28
+    },
+    {
+      "swimmer_name": "BOLA Jure",
+      "longCoursePoolTime": 28.72,
+      "shortCoursePoolTime": 27.45
+    },
+    {
+      "swimmer_name": "MEDIČ Denis",
+      "longCoursePoolTime": 28.74,
+      "shortCoursePoolTime": 28.2
+    },
+    {
+      "swimmer_name": "BAJC Rok",
+      "longCoursePoolTime": 28.75,
+      "shortCoursePoolTime": 29.13
+    },
+    {
+      "swimmer_name": "BURKELJCA Jernej",
+      "longCoursePoolTime": 28.75,
+      "shortCoursePoolTime": 28.09
+    },
+    {
+      "swimmer_name": "JURŠIČ Sašo",
+      "longCoursePoolTime": 28.75,
+      "shortCoursePoolTime": 28.36
+    },
+    {
+      "swimmer_name": "BABNIK Luka",
+      "longCoursePoolTime": 28.77,
+      "shortCoursePoolTime": 27.75
+    },
+    {
+      "swimmer_name": "KOŽAR Vid",
+      "longCoursePoolTime": 28.79,
+      "shortCoursePoolTime": 28.59
+    },
+    {
+      "swimmer_name": "POLIČ Anže",
+      "longCoursePoolTime": 28.79,
+      "shortCoursePoolTime": 28.36
+    },
+    {
+      "swimmer_name": "FIRŠT Alen",
+      "longCoursePoolTime": 28.8,
+      "shortCoursePoolTime": 27.87
+    },
+    {
+      "swimmer_name": "MAJDIČ Tomaž",
+      "longCoursePoolTime": 28.8,
+      "shortCoursePoolTime": 27.01
+    },
+    {
+      "swimmer_name": "OMERZEL Jernej",
+      "longCoursePoolTime": 28.8,
+      "shortCoursePoolTime": 30.22
+    },
+    {
+      "swimmer_name": "ŠKOF Andrej",
+      "longCoursePoolTime": 28.8,
+      "shortCoursePoolTime": 28.51
+    },
+    {
+      "swimmer_name": "BOŽIČKO Matevž",
+      "longCoursePoolTime": 28.81,
+      "shortCoursePoolTime": 28.46
+    },
+    {
+      "swimmer_name": "KUKEC Nejc",
+      "longCoursePoolTime": 28.83,
+      "shortCoursePoolTime": 28.56
+    },
+    {
+      "swimmer_name": "PODRIČNIK Niko",
+      "longCoursePoolTime": 28.83,
+      "shortCoursePoolTime": 28.22
+    },
+    {
+      "swimmer_name": "RESMAN Rok",
+      "longCoursePoolTime": 28.84,
+      "shortCoursePoolTime": 28.41
+    },
+    {
+      "swimmer_name": "KREFT Jakob",
+      "longCoursePoolTime": 28.85,
+      "shortCoursePoolTime": 28.79
+    },
+    {
+      "swimmer_name": "GORIŠEK Jaka",
+      "longCoursePoolTime": 28.86,
+      "shortCoursePoolTime": 28.89
+    },
+    {
+      "swimmer_name": "CESAR Matija",
+      "longCoursePoolTime": 28.87,
+      "shortCoursePoolTime": 28.18
+    },
+    {
+      "swimmer_name": "FAJON Matevž",
+      "longCoursePoolTime": 28.87,
+      "shortCoursePoolTime": 28.91
+    },
+    {
+      "swimmer_name": "RADUNOVIČ Krešimir",
+      "longCoursePoolTime": 28.88,
+      "shortCoursePoolTime": 28.67
+    },
+    {
+      "swimmer_name": "LENASI Miha",
+      "longCoursePoolTime": 28.9,
+      "shortCoursePoolTime": 27.72
+    },
+    {
+      "swimmer_name": "RISTANOVIČ Uroš",
+      "longCoursePoolTime": 28.9,
+      "shortCoursePoolTime": 28.24
+    },
+    {
+      "swimmer_name": "FRECE Gašper",
+      "longCoursePoolTime": 28.94,
+      "shortCoursePoolTime": 28.89
+    },
+    {
+      "swimmer_name": "HERMAN Aleš",
+      "longCoursePoolTime": 28.95,
+      "shortCoursePoolTime": 28.33
+    },
+    {
+      "swimmer_name": "MEDIŽEVEC Anže",
+      "longCoursePoolTime": 28.95,
+      "shortCoursePoolTime": 28.93
+    },
+    {
+      "swimmer_name": "ŽLOF Jan",
+      "longCoursePoolTime": 28.95,
+      "shortCoursePoolTime": 29.07
+    },
+    {
+      "swimmer_name": "ZUPAN Luka",
+      "longCoursePoolTime": 28.96,
+      "shortCoursePoolTime": 28.81
+    },
+    {
+      "swimmer_name": "HALOŽAN Gašper",
+      "longCoursePoolTime": 28.97,
+      "shortCoursePoolTime": 29.34
+    },
+    {
+      "swimmer_name": "BREGAR Tine",
+      "longCoursePoolTime": 28.98,
+      "shortCoursePoolTime": 28.67
+    },
+    {
+      "swimmer_name": "ĐUKANOVIĆ Igor",
+      "longCoursePoolTime": 28.99,
+      "shortCoursePoolTime": 28.74
+    },
+    {
+      "swimmer_name": "VALČIČ Toni",
+      "longCoursePoolTime": 29,
+      "shortCoursePoolTime": 28.02
+    },
+    {
+      "swimmer_name": "KOŽELJ Matej",
+      "longCoursePoolTime": 29.01,
+      "shortCoursePoolTime": 29.23
+    },
+    {
+      "swimmer_name": "ČREŠNAR Dejvid",
+      "longCoursePoolTime": 29.01,
+      "shortCoursePoolTime": 28.07
+    },
+    {
+      "swimmer_name": "BOŽOVIČ Matej",
+      "longCoursePoolTime": 29.02,
+      "shortCoursePoolTime": 29.93
+    },
+    {
+      "swimmer_name": "NOVAK Aljaž",
+      "longCoursePoolTime": 29.02,
+      "shortCoursePoolTime": 27.99
+    },
+    {
+      "swimmer_name": "GORŠEG Uroš",
+      "longCoursePoolTime": 29.03,
+      "shortCoursePoolTime": 27.85
+    },
+    {
+      "swimmer_name": "ŠULEK Žan Miha",
+      "longCoursePoolTime": 29.03,
+      "shortCoursePoolTime": 28.53
+    },
+    {
+      "swimmer_name": "PERNAT Matjaž",
+      "longCoursePoolTime": 29.1,
+      "shortCoursePoolTime": 27.54
+    },
+    {
+      "swimmer_name": "TRKMAN Marko",
+      "longCoursePoolTime": 29.1,
+      "shortCoursePoolTime": 28.88
+    },
+    {
+      "swimmer_name": "GOSAR Žiga",
+      "longCoursePoolTime": 29.11,
+      "shortCoursePoolTime": 28.69
+    },
+    {
+      "swimmer_name": "FAJFAR Aljaž",
+      "longCoursePoolTime": 29.14,
+      "shortCoursePoolTime": 44.14
+    },
+    {
+      "swimmer_name": "MANOJLOVIČ Rok",
+      "longCoursePoolTime": 29.15,
+      "shortCoursePoolTime": 28.41
+    },
+    {
+      "swimmer_name": "OMAN Jaka",
+      "longCoursePoolTime": 29.19,
+      "shortCoursePoolTime": 28.8
+    },
+    {
+      "swimmer_name": "PEČAVER Valentin",
+      "longCoursePoolTime": 29.19,
+      "shortCoursePoolTime": 27.95
+    },
+    {
+      "swimmer_name": "LIPOVŽ Matic",
+      "longCoursePoolTime": 29.2,
+      "shortCoursePoolTime": 28.76
+    },
+    {
+      "swimmer_name": "DRGAJNER Rok",
+      "longCoursePoolTime": 29.21,
+      "shortCoursePoolTime": 28.61
+    },
+    {
+      "swimmer_name": "GUSEL Tadej",
+      "longCoursePoolTime": 29.25,
+      "shortCoursePoolTime": 29.05
+    },
+    {
+      "swimmer_name": "JURIĆ Petar",
+      "longCoursePoolTime": 29.25,
+      "shortCoursePoolTime": 29.29
+    },
+    {
+      "swimmer_name": "NOČ Gašper",
+      "longCoursePoolTime": 29.25,
+      "shortCoursePoolTime": 28.78
+    },
+    {
+      "swimmer_name": "OBIDIČ Miha",
+      "longCoursePoolTime": 29.25,
+      "shortCoursePoolTime": 29.13
+    },
+    {
+      "swimmer_name": "FORTUNA Jure",
+      "longCoursePoolTime": 29.27,
+      "shortCoursePoolTime": 28.57
+    },
+    {
+      "swimmer_name": "GOLOB Gregor",
+      "longCoursePoolTime": 29.29,
+      "shortCoursePoolTime": 28.73
+    },
+    {
+      "swimmer_name": "KEKEC Robert",
+      "longCoursePoolTime": 29.31,
+      "shortCoursePoolTime": 28.08
+    },
+    {
+      "swimmer_name": "LESKOVEC Rok",
+      "longCoursePoolTime": 29.32,
+      "shortCoursePoolTime": 29.02
+    },
+    {
+      "swimmer_name": "HROVAT Erik",
+      "longCoursePoolTime": 29.33,
+      "shortCoursePoolTime": 29.53
+    },
+    {
+      "swimmer_name": "KAPUS Matej",
+      "longCoursePoolTime": 29.37,
+      "shortCoursePoolTime": 28.84
+    },
+    {
+      "swimmer_name": "RIHTAR Matej",
+      "longCoursePoolTime": 29.38,
+      "shortCoursePoolTime": 29.21
+    },
+    {
+      "swimmer_name": "BOMBEK Matej",
+      "longCoursePoolTime": 29.4,
+      "shortCoursePoolTime": 28.54
+    },
+    {
+      "swimmer_name": "POŽGAJ Jan",
+      "longCoursePoolTime": 29.4,
+      "shortCoursePoolTime": 28.42
+    },
+    {
+      "swimmer_name": "JELEN Nejc",
+      "longCoursePoolTime": 29.41,
+      "shortCoursePoolTime": 28.47
+    },
+    {
+      "swimmer_name": "MEDEN Jernej",
+      "longCoursePoolTime": 29.42,
+      "shortCoursePoolTime": 29.51
+    },
+    {
+      "swimmer_name": "DOLINAR Jure",
+      "longCoursePoolTime": 29.48,
+      "shortCoursePoolTime": 30.38
+    },
+    {
+      "swimmer_name": "MARKOTA Andrej",
+      "longCoursePoolTime": 29.49,
+      "shortCoursePoolTime": 29.24
+    },
+    {
+      "swimmer_name": "VIDOVIČ Tim",
+      "longCoursePoolTime": 29.5,
+      "shortCoursePoolTime": 28.23
+    },
+    {
+      "swimmer_name": "URDIH Žiga",
+      "longCoursePoolTime": 29.53,
+      "shortCoursePoolTime": 29.7
+    },
+    {
+      "swimmer_name": "BIZJAK Peter",
+      "longCoursePoolTime": 29.58,
+      "shortCoursePoolTime": 34.55
+    },
+    {
+      "swimmer_name": "PALČNIK Marcel",
+      "longCoursePoolTime": 29.58,
+      "shortCoursePoolTime": 29.22
+    },
+    {
+      "swimmer_name": "BOŠNJAKOVIČ Boris",
+      "longCoursePoolTime": 29.59,
+      "shortCoursePoolTime": 28.74
+    },
+    {
+      "swimmer_name": "MIKOLAVČIČ Mitja",
+      "longCoursePoolTime": 29.61,
+      "shortCoursePoolTime": 29.1
+    },
+    {
+      "swimmer_name": "ZUPANČIČ Žiga",
+      "longCoursePoolTime": 29.62,
+      "shortCoursePoolTime": 29.07
+    },
+    {
+      "swimmer_name": "DOBNIKAR Rok",
+      "longCoursePoolTime": 29.64,
+      "shortCoursePoolTime": 30.13
+    },
+    {
+      "swimmer_name": "PREŠEREN Jan",
+      "longCoursePoolTime": 29.64,
+      "shortCoursePoolTime": 30.47
+    },
+    {
+      "swimmer_name": "PŠENIČNIK Žiga",
+      "longCoursePoolTime": 29.64,
+      "shortCoursePoolTime": 30.13
+    },
+    {
+      "swimmer_name": "KUMAR Anže",
+      "longCoursePoolTime": 29.68,
+      "shortCoursePoolTime": 29.74
+    },
+    {
+      "swimmer_name": "MARINIČ Jaka",
+      "longCoursePoolTime": 29.7,
+      "shortCoursePoolTime": 28.29
+    },
+    {
+      "swimmer_name": "LOVŠIN Nejc",
+      "longCoursePoolTime": 29.71,
+      "shortCoursePoolTime": 28.94
+    },
+    {
+      "swimmer_name": "KOSTELEC Kristjan",
+      "longCoursePoolTime": 29.74,
+      "shortCoursePoolTime": 29.42
+    },
+    {
+      "swimmer_name": "POTOČAR Jan",
+      "longCoursePoolTime": 29.75,
+      "shortCoursePoolTime": 29.53
+    },
+    {
+      "swimmer_name": "ČEH Matej",
+      "longCoursePoolTime": 29.77,
+      "shortCoursePoolTime": 29.99
+    },
+    {
+      "swimmer_name": "GORNJAK Alen",
+      "longCoursePoolTime": 29.78,
+      "shortCoursePoolTime": 29.14
+    },
+    {
+      "swimmer_name": "OGRIN Žiga",
+      "longCoursePoolTime": 29.79,
+      "shortCoursePoolTime": 28.44
+    },
+    {
+      "swimmer_name": "HODNIK Aljoša",
+      "longCoursePoolTime": 29.82,
+      "shortCoursePoolTime": 30.01
+    },
+    {
+      "swimmer_name": "PRAPROTNIK Tine",
+      "longCoursePoolTime": 29.84,
+      "shortCoursePoolTime": 29.62
+    },
+    {
+      "swimmer_name": "KRAJNIK Luka",
+      "longCoursePoolTime": 29.85,
+      "shortCoursePoolTime": 31
+    },
+    {
+      "swimmer_name": "KERIN Mitja",
+      "longCoursePoolTime": 29.88,
+      "shortCoursePoolTime": 28.96
+    },
+    {
+      "swimmer_name": "STOJANOVIČ Ljubiša",
+      "longCoursePoolTime": 29.88,
+      "shortCoursePoolTime": 28.89
+    },
+    {
+      "swimmer_name": "TROHA Gregor",
+      "longCoursePoolTime": 29.89,
+      "shortCoursePoolTime": 29.27
+    },
+    {
+      "swimmer_name": "VEBER Sašo",
+      "longCoursePoolTime": 29.92,
+      "shortCoursePoolTime": 30.09
+    },
+    {
+      "swimmer_name": "MARKOVIČ Matjaž",
+      "longCoursePoolTime": 29.93,
+      "shortCoursePoolTime": 31.29
+    },
+    {
+      "swimmer_name": "BREZNIK Tadej",
+      "longCoursePoolTime": 29.95,
+      "shortCoursePoolTime": 29.08
+    },
+    {
+      "swimmer_name": "LUŠIČ Hrvoje",
+      "longCoursePoolTime": 29.95,
+      "shortCoursePoolTime": 30.38
+    },
+    {
+      "swimmer_name": "MARUŠIČ Jaka",
+      "longCoursePoolTime": 29.98,
+      "shortCoursePoolTime": 29.37
+    },
+    {
+      "swimmer_name": "GOLOB Miha",
+      "longCoursePoolTime": 29.99,
+      "shortCoursePoolTime": 30.71
+    },
+    {
+      "swimmer_name": "KOZOLE Anže",
+      "longCoursePoolTime": 30,
+      "shortCoursePoolTime": 29.37
+    },
+    {
+      "swimmer_name": "LAMPRET Borut",
+      "longCoursePoolTime": 30,
+      "shortCoursePoolTime": 29.85
+    },
+    {
+      "swimmer_name": "KUŠAR Urban",
+      "longCoursePoolTime": 30.01,
+      "shortCoursePoolTime": 28.26
+    },
+    {
+      "swimmer_name": "FRAS Gregor",
+      "longCoursePoolTime": 30.04,
+      "shortCoursePoolTime": 29.33
+    },
+    {
+      "swimmer_name": "LJUBEC ZAJKO Leon",
+      "longCoursePoolTime": 30.05,
+      "shortCoursePoolTime": 29.35
+    },
+    {
+      "swimmer_name": "SADNIKAR Sandi",
+      "longCoursePoolTime": 30.07,
+      "shortCoursePoolTime": 28.56
+    },
+    {
+      "swimmer_name": "ŠVARA Gregor",
+      "longCoursePoolTime": 30.07,
+      "shortCoursePoolTime": 29.47
+    },
+    {
+      "swimmer_name": "GOLJAR Matija",
+      "longCoursePoolTime": 30.08,
+      "shortCoursePoolTime": 29.74
+    },
+    {
+      "swimmer_name": "MRAK Žiga Janez",
+      "longCoursePoolTime": 30.08,
+      "shortCoursePoolTime": 29.54
+    },
+    {
+      "swimmer_name": "PODBREGAR Davor",
+      "longCoursePoolTime": 30.08,
+      "shortCoursePoolTime": 29.81
+    },
+    {
+      "swimmer_name": "RUČMAN TAVČAR Jakob",
+      "longCoursePoolTime": 30.1,
+      "shortCoursePoolTime": 29.31
+    },
+    {
+      "swimmer_name": "DEDIČ Elmedin",
+      "longCoursePoolTime": 30.11,
+      "shortCoursePoolTime": 29.53
+    },
+    {
+      "swimmer_name": "ŠPENKO Tim",
+      "longCoursePoolTime": 30.12,
+      "shortCoursePoolTime": 30.56
+    },
+    {
+      "swimmer_name": "ZAJC Jan",
+      "longCoursePoolTime": 30.13,
+      "shortCoursePoolTime": 29.1
+    },
+    {
+      "swimmer_name": "PIRC KOLAR Oskar",
+      "longCoursePoolTime": 30.14,
+      "shortCoursePoolTime": 29.72
+    },
+    {
+      "swimmer_name": "MOHAR SALKIČ Miha",
+      "longCoursePoolTime": 30.15,
+      "shortCoursePoolTime": 30.03
+    },
+    {
+      "swimmer_name": "PETROVIČ Davor",
+      "longCoursePoolTime": 30.15,
+      "shortCoursePoolTime": 30.44
+    },
+    {
+      "swimmer_name": "RESMAN Adam",
+      "longCoursePoolTime": 30.2,
+      "shortCoursePoolTime": 29.47
+    },
+    {
+      "swimmer_name": "BJELOVUČIĆ Gal",
+      "longCoursePoolTime": 30.21,
+      "shortCoursePoolTime": 29.37
+    },
+    {
+      "swimmer_name": "KUŽEL Rok",
+      "longCoursePoolTime": 30.21,
+      "shortCoursePoolTime": 30.35
+    },
+    {
+      "swimmer_name": "STOŠIČ Sašo",
+      "longCoursePoolTime": 30.21,
+      "shortCoursePoolTime": 28.18
+    },
+    {
+      "swimmer_name": "REBOL Tomaž",
+      "longCoursePoolTime": 30.24,
+      "shortCoursePoolTime": 29.99
+    },
+    {
+      "swimmer_name": "BENČIČ Matic",
+      "longCoursePoolTime": 30.27,
+      "shortCoursePoolTime": 28.86
+    },
+    {
+      "swimmer_name": "KOBE Aleš",
+      "longCoursePoolTime": 30.27,
+      "shortCoursePoolTime": 30.88
+    },
+    {
+      "swimmer_name": "UČAKAR Anže",
+      "longCoursePoolTime": 30.27,
+      "shortCoursePoolTime": 28.52
+    },
+    {
+      "swimmer_name": "VELIČKOVIČ Juš",
+      "longCoursePoolTime": 30.3,
+      "shortCoursePoolTime": 28.7
+    },
+    {
+      "swimmer_name": "AJLEC Anže",
+      "longCoursePoolTime": 30.31,
+      "shortCoursePoolTime": 30.6
+    },
+    {
+      "swimmer_name": "ŽIBERT Žiga",
+      "longCoursePoolTime": 30.33,
+      "shortCoursePoolTime": 32.07
+    },
+    {
+      "swimmer_name": "POVIRK Peter",
+      "longCoursePoolTime": 30.36,
+      "shortCoursePoolTime": 30.42
+    },
+    {
+      "swimmer_name": "JENKO Nejc",
+      "longCoursePoolTime": 30.37,
+      "shortCoursePoolTime": 31.73
+    },
+    {
+      "swimmer_name": "BEVC Jan",
+      "longCoursePoolTime": 30.38,
+      "shortCoursePoolTime": 31.36
+    },
+    {
+      "swimmer_name": "GRILJ Uroš",
+      "longCoursePoolTime": 30.38,
+      "shortCoursePoolTime": 29.5
+    },
+    {
+      "swimmer_name": "BENEDIČIČ Matija",
+      "longCoursePoolTime": 30.4,
+      "shortCoursePoolTime": 29.31
+    },
+    {
+      "swimmer_name": "IVANKOVIČ Mario",
+      "longCoursePoolTime": 30.43,
+      "shortCoursePoolTime": 30.71
+    },
+    {
+      "swimmer_name": "KOSTEVC Črt",
+      "longCoursePoolTime": 30.43,
+      "shortCoursePoolTime": 29.32
+    },
+    {
+      "swimmer_name": "SALMISTER Dejan",
+      "longCoursePoolTime": 30.44,
+      "shortCoursePoolTime": 29.33
+    },
+    {
+      "swimmer_name": "JORDAN Jan",
+      "longCoursePoolTime": 30.45,
+      "shortCoursePoolTime": 29.26
+    },
+    {
+      "swimmer_name": "OBLAK Denis",
+      "longCoursePoolTime": 30.5,
+      "shortCoursePoolTime": 28.78
+    },
+    {
+      "swimmer_name": "WEINBERGER Juš",
+      "longCoursePoolTime": 30.52,
+      "shortCoursePoolTime": 29.66
+    },
+    {
+      "swimmer_name": "HARB Benjamin",
+      "longCoursePoolTime": 30.53,
+      "shortCoursePoolTime": 29.78
+    },
+    {
+      "swimmer_name": "FILIPOVIČ Marko",
+      "longCoursePoolTime": 30.58,
+      "shortCoursePoolTime": 28.93
+    },
+    {
+      "swimmer_name": "DROFENIK Matjaž",
+      "longCoursePoolTime": 30.59,
+      "shortCoursePoolTime": 30.01
+    },
+    {
+      "swimmer_name": "JAMNIK Nejc",
+      "longCoursePoolTime": 30.6,
+      "shortCoursePoolTime": 30.24
+    },
+    {
+      "swimmer_name": "GOLOB Gašper",
+      "longCoursePoolTime": 30.62,
+      "shortCoursePoolTime": 29.71
+    },
+    {
+      "swimmer_name": "JAMNIK Luka",
+      "longCoursePoolTime": 30.62,
+      "shortCoursePoolTime": 29.45
+    },
+    {
+      "swimmer_name": "GOLOB Aleš",
+      "longCoursePoolTime": 30.65,
+      "shortCoursePoolTime": 29.73
+    },
+    {
+      "swimmer_name": "SEVER Rok",
+      "longCoursePoolTime": 30.7,
+      "shortCoursePoolTime": 29.79
+    },
+    {
+      "swimmer_name": "DOSTAL Andraž",
+      "longCoursePoolTime": 30.71,
+      "shortCoursePoolTime": 29.91
+    },
+    {
+      "swimmer_name": "KIRBIŠ Jure",
+      "longCoursePoolTime": 30.71,
+      "shortCoursePoolTime": 28.49
+    },
+    {
+      "swimmer_name": "GORIŠEK Rene",
+      "longCoursePoolTime": 30.73,
+      "shortCoursePoolTime": 30.78
+    },
+    {
+      "swimmer_name": "ZORMAN Janez",
+      "longCoursePoolTime": 30.76,
+      "shortCoursePoolTime": 28.84
+    },
+    {
+      "swimmer_name": "ŠKRJANC Žiga",
+      "longCoursePoolTime": 30.78,
+      "shortCoursePoolTime": 30.17
+    },
+    {
+      "swimmer_name": "DRAKSLAR Jure",
+      "longCoursePoolTime": 30.79,
+      "shortCoursePoolTime": 30.81
+    },
+    {
+      "swimmer_name": "HERCIGONJA Dejan",
+      "longCoursePoolTime": 30.79,
+      "shortCoursePoolTime": 28.48
+    },
+    {
+      "swimmer_name": "BURKELJCA Janez",
+      "longCoursePoolTime": 30.8,
+      "shortCoursePoolTime": 29.78
+    },
+    {
+      "swimmer_name": "KOŠAR Matjaž",
+      "longCoursePoolTime": 30.82,
+      "shortCoursePoolTime": 29.65
+    },
+    {
+      "swimmer_name": "MLADENOVIČ Simon",
+      "longCoursePoolTime": 30.83,
+      "shortCoursePoolTime": 28.91
+    },
+    {
+      "swimmer_name": "ARNIČ Žiga",
+      "longCoursePoolTime": 30.84,
+      "shortCoursePoolTime": 30.3
+    },
+    {
+      "swimmer_name": "UMER Tomo",
+      "longCoursePoolTime": 30.86,
+      "shortCoursePoolTime": 30.12
+    },
+    {
+      "swimmer_name": "KLEVA Blaž",
+      "longCoursePoolTime": 30.87,
+      "shortCoursePoolTime": 30.77
+    },
+    {
+      "swimmer_name": "ŠPITALAR Gregor",
+      "longCoursePoolTime": 30.9,
+      "shortCoursePoolTime": 30.25
+    },
+    {
+      "swimmer_name": "ŠALAMON Tine",
+      "longCoursePoolTime": 30.93,
+      "shortCoursePoolTime": 31.07
+    },
+    {
+      "swimmer_name": "LEŠČEŠEN Martin",
+      "longCoursePoolTime": 31.04,
+      "shortCoursePoolTime": 31.23
+    },
+    {
+      "swimmer_name": "POLJAK Aleš",
+      "longCoursePoolTime": 31.04,
+      "shortCoursePoolTime": 29.77
+    },
+    {
+      "swimmer_name": "LAHOVIČ Marcel",
+      "longCoursePoolTime": 31.05,
+      "shortCoursePoolTime": 30.64
+    },
+    {
+      "swimmer_name": "LUŽAR Gašper",
+      "longCoursePoolTime": 31.08,
+      "shortCoursePoolTime": 31.03
+    },
+    {
+      "swimmer_name": "RODE Rok",
+      "longCoursePoolTime": 31.09,
+      "shortCoursePoolTime": 30.49
+    },
+    {
+      "swimmer_name": "ČUDEN Florjan",
+      "longCoursePoolTime": 31.09,
+      "shortCoursePoolTime": 30.85
+    },
+    {
+      "swimmer_name": "HADŽIALJEVIČ Benjamin",
+      "longCoursePoolTime": 31.1,
+      "shortCoursePoolTime": 31.39
+    },
+    {
+      "swimmer_name": "ŠIROK Kolja",
+      "longCoursePoolTime": 31.1,
+      "shortCoursePoolTime": 29
+    },
+    {
+      "swimmer_name": "KEKEC Blaž",
+      "longCoursePoolTime": 31.12,
+      "shortCoursePoolTime": 29.79
+    },
+    {
+      "swimmer_name": "KOVAČIČ Žiga",
+      "longCoursePoolTime": 31.16,
+      "shortCoursePoolTime": 30.61
+    },
+    {
+      "swimmer_name": "BIZJAK Rok",
+      "longCoursePoolTime": 31.19,
+      "shortCoursePoolTime": 30.71
+    },
+    {
+      "swimmer_name": "URŠIČ Jan",
+      "longCoursePoolTime": 31.21,
+      "shortCoursePoolTime": 29.49
+    },
+    {
+      "swimmer_name": "MEDEN Matija",
+      "longCoursePoolTime": 31.23,
+      "shortCoursePoolTime": 29.17
+    },
+    {
+      "swimmer_name": "ZUPANIČ Luka",
+      "longCoursePoolTime": 31.23,
+      "shortCoursePoolTime": 30.09
+    },
+    {
+      "swimmer_name": "VOZEL Matic",
+      "longCoursePoolTime": 31.25,
+      "shortCoursePoolTime": 30.4
+    },
+    {
+      "swimmer_name": "MRAMOR Veno",
+      "longCoursePoolTime": 31.38,
+      "shortCoursePoolTime": 30.61
+    },
+    {
+      "swimmer_name": "VOVK Žiga",
+      "longCoursePoolTime": 31.4,
+      "shortCoursePoolTime": 29.58
+    },
+    {
+      "swimmer_name": "ZAGOŽEN Amadej",
+      "longCoursePoolTime": 31.44,
+      "shortCoursePoolTime": 31.39
+    },
+    {
+      "swimmer_name": "KUNST Nik",
+      "longCoursePoolTime": 31.46,
+      "shortCoursePoolTime": 30.06
+    },
+    {
+      "swimmer_name": "KUHAR Aleš",
+      "longCoursePoolTime": 31.47,
+      "shortCoursePoolTime": 30.12
+    },
+    {
+      "swimmer_name": "KOREN Jaka",
+      "longCoursePoolTime": 31.51,
+      "shortCoursePoolTime": 31.05
+    },
+    {
+      "swimmer_name": "DVORŠEK Mario",
+      "longCoursePoolTime": 31.59,
+      "shortCoursePoolTime": 31.25
+    },
+    {
+      "swimmer_name": "KRAGELJ Benjamin",
+      "longCoursePoolTime": 31.67,
+      "shortCoursePoolTime": 31.78
+    },
+    {
+      "swimmer_name": "JANKOVIČ Nino",
+      "longCoursePoolTime": 31.68,
+      "shortCoursePoolTime": 31.18
+    },
+    {
+      "swimmer_name": "TERBUC Klemen",
+      "longCoursePoolTime": 31.69,
+      "shortCoursePoolTime": 30.93
+    },
+    {
+      "swimmer_name": "GORENC Peter",
+      "longCoursePoolTime": 31.71,
+      "shortCoursePoolTime": 31.14
+    },
+    {
+      "swimmer_name": "POVH Lovro",
+      "longCoursePoolTime": 31.75,
+      "shortCoursePoolTime": 30.63
+    },
+    {
+      "swimmer_name": "SLUGA Matej",
+      "longCoursePoolTime": 31.78,
+      "shortCoursePoolTime": 31.95
+    },
+    {
+      "swimmer_name": "BAJC Bojan",
+      "longCoursePoolTime": 31.81,
+      "shortCoursePoolTime": 31.22
+    },
+    {
+      "swimmer_name": "GOMBOC Črt",
+      "longCoursePoolTime": 31.91,
+      "shortCoursePoolTime": 33.1
+    },
+    {
+      "swimmer_name": "KRALJ Urban",
+      "longCoursePoolTime": 31.92,
+      "shortCoursePoolTime": 29.87
+    },
+    {
+      "swimmer_name": "GOLJAR Andrej",
+      "longCoursePoolTime": 31.96,
+      "shortCoursePoolTime": 30.73
+    },
+    {
+      "swimmer_name": "KLANČAR David",
+      "longCoursePoolTime": 32,
+      "shortCoursePoolTime": 30.52
+    },
+    {
+      "swimmer_name": "ŽAGAR Žan",
+      "longCoursePoolTime": 32.01,
+      "shortCoursePoolTime": 32.38
+    },
+    {
+      "swimmer_name": "VUČKO Vlado",
+      "longCoursePoolTime": 32.12,
+      "shortCoursePoolTime": 31.99
+    },
+    {
+      "swimmer_name": "HOTKO Jure",
+      "longCoursePoolTime": 32.17,
+      "shortCoursePoolTime": 31.05
+    },
+    {
+      "swimmer_name": "MANCEVIČ Vadim",
+      "longCoursePoolTime": 32.21,
+      "shortCoursePoolTime": 29.43
+    },
+    {
+      "swimmer_name": "KOVAČ Jan",
+      "longCoursePoolTime": 32.24,
+      "shortCoursePoolTime": 31.8
+    },
+    {
+      "swimmer_name": "MELON Luka",
+      "longCoursePoolTime": 32.25,
+      "shortCoursePoolTime": 30.75
+    },
+    {
+      "swimmer_name": "VELUNŠEK Lovro",
+      "longCoursePoolTime": 32.25,
+      "shortCoursePoolTime": 32.39
+    },
+    {
+      "swimmer_name": "STARE Žiga",
+      "longCoursePoolTime": 32.28,
+      "shortCoursePoolTime": 30.35
+    },
+    {
+      "swimmer_name": "ATELŠEK KASTREVC Vid",
+      "longCoursePoolTime": 32.37,
+      "shortCoursePoolTime": 30.21
+    },
+    {
+      "swimmer_name": "MEDVED Kostja",
+      "longCoursePoolTime": 32.37,
+      "shortCoursePoolTime": 28.01
+    },
+    {
+      "swimmer_name": "KOGLOT Luka",
+      "longCoursePoolTime": 32.41,
+      "shortCoursePoolTime": 31.72
+    },
+    {
+      "swimmer_name": "GROŠELJ Nik",
+      "longCoursePoolTime": 32.48,
+      "shortCoursePoolTime": 29.8
+    },
+    {
+      "swimmer_name": "LAPAJNE Marko",
+      "longCoursePoolTime": 32.48,
+      "shortCoursePoolTime": 31.32
+    },
+    {
+      "swimmer_name": "MESEC Žiga",
+      "longCoursePoolTime": 32.54,
+      "shortCoursePoolTime": 31.54
+    },
+    {
+      "swimmer_name": "DOLAR Anže",
+      "longCoursePoolTime": 32.68,
+      "shortCoursePoolTime": 31.88
+    },
+    {
+      "swimmer_name": "VOVK Rok",
+      "longCoursePoolTime": 32.76,
+      "shortCoursePoolTime": 32.88
+    },
+    {
+      "swimmer_name": "KONČAR Mihael Boštjan",
+      "longCoursePoolTime": 32.78,
+      "shortCoursePoolTime": 31.99
+    },
+    {
+      "swimmer_name": "TAVZES Igor",
+      "longCoursePoolTime": 32.97,
+      "shortCoursePoolTime": 33.22
+    },
+    {
+      "swimmer_name": "RESMAN Miha",
+      "longCoursePoolTime": 33.07,
+      "shortCoursePoolTime": 30.3
+    },
+    {
+      "swimmer_name": "CVENKEL Domen",
+      "longCoursePoolTime": 33.1,
+      "shortCoursePoolTime": 32.25
+    },
+    {
+      "swimmer_name": "PERC Jan",
+      "longCoursePoolTime": 33.12,
+      "shortCoursePoolTime": 32.7
+    },
+    {
+      "swimmer_name": "ZUPIN Anže",
+      "longCoursePoolTime": 33.19,
+      "shortCoursePoolTime": 29.88
+    },
+    {
+      "swimmer_name": "IVANC Žiga",
+      "longCoursePoolTime": 33.37,
+      "shortCoursePoolTime": 33.49
+    },
+    {
+      "swimmer_name": "ANTOLOVIČ Vito",
+      "longCoursePoolTime": 33.47,
+      "shortCoursePoolTime": 33.95
+    },
+    {
+      "swimmer_name": "PLAZNIK Martin",
+      "longCoursePoolTime": 33.49,
+      "shortCoursePoolTime": 33.57
+    },
+    {
+      "swimmer_name": "GRIČAR David",
+      "longCoursePoolTime": 33.6,
+      "shortCoursePoolTime": 33.99
+    },
+    {
+      "swimmer_name": "HROVAT Matjaž",
+      "longCoursePoolTime": 33.64,
+      "shortCoursePoolTime": 33.47
+    },
+    {
+      "swimmer_name": "ŠUBER Matej",
+      "longCoursePoolTime": 33.67,
+      "shortCoursePoolTime": 33
+    },
+    {
+      "swimmer_name": "BUJAK Marko",
+      "longCoursePoolTime": 33.77,
+      "shortCoursePoolTime": 31.01
+    },
+    {
+      "swimmer_name": "KITAK Miha",
+      "longCoursePoolTime": 35.5,
+      "shortCoursePoolTime": 35
+    }
+  ]
+}
