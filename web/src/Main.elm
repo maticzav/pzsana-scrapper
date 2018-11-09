@@ -96,7 +96,7 @@ update msg ({ input, learning } as model) =
         Step ->
             let
                 ( newWeight, newBias ) =
-                    descentGradient 0.001 ( weight, bias ) data
+                    descentGradient ( weight, bias ) data
 
                 newStep =
                     step + 1
@@ -120,14 +120,14 @@ update msg ({ input, learning } as model) =
 -- Learning mechanism
 
 
-descentGradient : Float -> ( Weight, Bias ) -> List Unit -> ( Weight, Bias )
-descentGradient step ( weight, bias ) unitList =
+descentGradient : ( Weight, Bias ) -> List Unit -> ( Weight, Bias )
+descentGradient ( weight, bias ) unitList =
     let
         newWeight =
-            weight - step * meanSquareErrorWeight ( weight, bias ) unitList
+            weight - 0.001 * meanSquareErrorWeight ( weight, bias ) unitList
 
         newBias =
-            bias - step * meanSquareErrorBias ( weight, bias ) unitList
+            bias - 0.001 * meanSquareErrorBias ( weight, bias ) unitList
     in
     ( newWeight, newBias )
 
@@ -185,8 +185,6 @@ viewPrediction (Learning _ ( weight, bias ) _) x =
         [ div []
             [ input
                 [ onInput ChangeInput
-
-                -- , value (String.fromFloat x)
                 , placeholder "Try the algorithm..."
                 ]
                 []
