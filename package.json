@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
+    "generate-data": "npm run clean & npm run start",
+    "learn": "ts-node src/learn.ts",
+    "clean": "rimraf dist",
     "prepare": "npm run build",
     "build": "rimraf dist && tsc -d",
     "pretest": "npm run build && npm run lint",
