@@ -16,9 +16,11 @@ import LineChart.Dots as Dots
 import LineChart.Events as Events
 import LineChart.Grid as Grid
 import LineChart.Interpolation as Interpolation
-import LineChart.Junk as Junk exposing (..)
+import LineChart.Junk as Junk
 import LineChart.Legends as Legends
 import LineChart.Line as Line
+import Process
+import Task
 
 
 main =
@@ -78,6 +80,7 @@ type alias Model =
 type Msg
     = Reset
     | Step
+    | Learn
     | ChangeInput String
 
 
@@ -114,6 +117,30 @@ update msg ({ input, learning } as model) =
 
                 Err _ ->
                     ( model, Cmd.none )
+
+        Learn ->
+            let
+                ( newWeight, newBias ) =
+                    descentGradient ( weight, bias ) data
+
+                newStep =
+                    step + 1
+
+                reachedCrest =
+                    abs (newWeight - weight) < 0.001 && abs (newBias - bias) < 0.001
+
+                task =
+                    case reachedCrest of
+                        True ->
+                            Cmd.none
+
+                        False ->
+                            Process.sleep 150
+                                |> Task.perform (\_ -> Learn)
+            in
+            ( { model | learning = Learning data ( newWeight, newBias ) newStep }
+            , task
+            )
 
 
 
@@ -183,13 +210,14 @@ viewPrediction (Learning _ ( weight, bias ) _) x =
     in
     div []
         [ div []
-            [ input
+            [ label [] [ text "Long course time: " ]
+            , input
                 [ onInput ChangeInput
                 , placeholder "Try the algorithm..."
                 ]
                 []
             ]
-        , div [] [ text prediction ]
+        , div [] [ label [] [ text "Predicted short course time: " ], text prediction ]
         ]
 
 
@@ -198,7 +226,7 @@ viewPrediction (Learning _ ( weight, bias ) _) x =
 
 
 viewLearningFormula : Learning -> Html Msg
-viewLearningFormula (Learning _ ( weight, bias ) _) =
+viewLearningFormula (Learning _ ( weight, bias ) step) =
     let
         w =
             String.left 4 <| String.fromFloat <| weight
@@ -207,14 +235,19 @@ viewLearningFormula (Learning _ ( weight, bias ) _) =
             String.left 5 <| String.fromFloat bias
 
         formula =
-            [ "h(x)", "=", w, "*", "x", "+", b ]
+            String.join " " [ "h(x)", "=", w, "*", "x", "+", b ]
+
+        steps =
+            String.join " " [ "After", String.fromInt step, "steps." ]
     in
     div []
         [ div []
             [ button [ onClick Step ] [ text "Step" ]
             , button [ onClick Reset ] [ text "Reset" ]
+            , button [ onClick Learn ] [ text "Learn" ]
             ]
-        , text (String.join " " formula)
+        , div [] [ text formula ]
+        , div [] [ text steps ]
         ]
 
 
@@ -224,7 +257,7 @@ viewLearningChart (Learning data ( weight, bias ) _) =
         config =
             { y = Axis.default 450 "y" .shortCoursePoolTime
             , x = Axis.default 700 "x" .longCoursePoolTime
-            , container = Container.styled "line-chart-1" [ ( "font-family", "monospace" ) ]
+            , container = Container.styled "line-chart" [ ( "font-family", "monospace" ) ]
             , interpolation = Interpolation.linear
             , intersection = Intersection.default
             , legends = Legends.default
